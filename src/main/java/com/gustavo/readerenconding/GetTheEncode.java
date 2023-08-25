@@ -1,4 +1,4 @@
-package com.neocode.readerenconding;
+package com.gustavo.readerenconding;
 
 import java.io.IOException;
 import org.mozilla.universalchardet.UniversalDetector;
